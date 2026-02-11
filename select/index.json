@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "潔癖症 (Remastered version)",
+  "base_artist": "LEGO BIG MORL",
+  "createdAt": "2026-02-11T08:17:56.589801Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "潔癖症",
+      "artist": "LEGO BIG MORL",
+      "has_synced": false,
+      "path": "select/pl_01_潔癖症_LEGO_BIG_MORL.txt"
+    }
+  ]
+}
